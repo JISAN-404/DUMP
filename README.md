@@ -1,7 +1,8 @@
 # DUMP
 FILE-MAKE
 
-#TOOLS 
+# TOOLS 
+
 cd $HOME;rm -rf DUMP
 
 git clone --depth=1 https://github.com/JISAN-404/DUMP
